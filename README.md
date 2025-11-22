@@ -13,7 +13,7 @@
 
 ### ⚙️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,node" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs" />
 </p>
 
 ### 🗄️ Database  
