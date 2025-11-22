@@ -13,12 +13,12 @@
 
 ### ⚙️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,node" />
 </p>
 
 ### 🗄️ Database  
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,postgres,prisma" />
 </p>
 
 ### ⚡Tools  
