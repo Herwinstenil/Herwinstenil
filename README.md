@@ -78,5 +78,5 @@
 </p>
 
 <p align="center">
-  ✨ <i>Always open to exciting opportunities, internships, and collaborations!</i>
+  ✨ <i>Always open to exciting opportunities and collaborations!</i>
 </p>
