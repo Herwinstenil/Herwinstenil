@@ -1,20 +1,46 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Herwin+Stenil+E!;Python+Full-Stack+Developer+%7C+Fresher;Building+Real-World+Web+Applications+🚀" />
-</p>
+<div align="center">
+  
+# 👋 Hey there! I'm Herwin Stenil E
+
+### 🚀 Python Full-Stack Developer | Building the Future, One Line at a Time
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Python+Full-Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Django+%7C+Flask+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 About Me
 
-- 💻 **Python Full-Stack Developer (Fresher)**
-- 🚀 Passionate about building **real-world, scalable web applications**
-- 🧠 Strong foundation in **frontend, backend, and databases**
-- 📈 Consistent GitHub contributor with hands-on project experience
-- 🎯 Actively seeking **entry-level / junior developer opportunities**
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Herwin Stenil E"
+        self.role = "Python Full-Stack Developer"
+        self.location = "Kanyakumari, Tamil Nadu, India"
+        self.status = "Actively seeking opportunities"
+        self.passion = "Building real-world solutions"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = Developer()
+me.say_hi()
+```
+
+- 👨‍🎓 **Fresh Graduate** ready to make an impact in tech
+- 🔥 Passionate about creating **scalable, user-friendly applications**
+- 🧠 Strong foundation in **Frontend, Backend & Database technologies**
+- 🌱 Currently deepening my knowledge in **Cloud Technologies**
+- 🤝 Open to **collaborations** and **learning opportunities**
+- 🎯 Actively **seeking entry-level** / **junior developer opportunities**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
-
-## 🛠 Tech Stack
+## 🛠 Technology Arsenal
 
 ### 🎨 Frontend
 <p>
@@ -49,34 +75,61 @@
 ---
 
 
-## 📈 GitHub Activity & Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Herwinstenil&show_icons=true&theme=blue-green&hide_border=false" alt="Herwin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=blue-green&hide_border=false" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herwinstenil&theme=blue-green&hide_border=false" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Herwinstenil&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
 
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&bg_color=0d1117&color=00e4ff&line=00e4ff&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=Herwinstenil&theme=algolia&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%" alt="GitHub Streak"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herwinstenil&theme=algolia" width="90%" alt="GitHub Activity Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Quote of the Day"/>
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="mailto:herwinstenil24@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
   <a href="https://www.linkedin.com/in/herwin-stenil-e-b65317263">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-</p>
 
-<p align="center">
-  ✨ <i>Always open to exciting opportunities and collaborations!</i>
-</p>
+<br><br>
+
+### 💬 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### ⭐ From [Herwinstenil](https://github.com/Herwinstenil) with 💙
+
+<img src="https://komarev.com/ghpvc/?username=Herwinstenil&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+  
+### ✨ Always open to exciting opportunities and collaborations!
+
+**"The only way to do great work is to love what you do."** - Steve Jobs
+
+</div>
