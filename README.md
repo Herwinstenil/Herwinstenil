@@ -79,14 +79,15 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Herwinstenil&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Herwinstenil&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" width="51%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="38%" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=Herwinstenil&theme=algolia&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%" alt="GitHub Streak"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herwinstenil&theme=algolia" width="90%" alt="GitHub Activity Graph"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&bg_color=050F2C&color=00d9ff&line=00d9ff&point=03d3fc&area=true&hide_border=true&radius=16" width="90%" alt="Contribution Graph"/>
+</div>
 
 </div>
 
@@ -95,8 +96,8 @@ me.say_hi()
 ## 💭 Quote of the Day
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Quote of the Day"/>
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border_radius=16" alt="Quote of the Day"/>
 
 </div>
 
