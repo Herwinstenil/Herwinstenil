@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
 ```python
 class Developer:
@@ -40,7 +40,7 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
-## 🛠 Technology Arsenal
+## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> Technology Arsenal
 
 ### 🎨 Frontend
 <p>
@@ -64,18 +64,18 @@ me.say_hi()
 
 ---
 
-## 🌟 Featured Projects
+##  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
 - **Smart Canteen Management System** – QR-based authentication for employees, Food ordering and automated billing system.  
 - **Tournament Fixtures Platform** – Manage fixtures, brackets, and live scores in real-time, Integrated Google Maps API for stadium locations.
 - **Hospital Appointment Booking System** – Patients can book doctor appointments and check schedules, Appointment confirmation via Email & SMS using Twilio API.  
 - **Quiz Application** – Interactive quiz platform with a countdown timer, Score tracking and leaderboard for competition.  
 
-👉 Explore my repos for source code!
+**👉 Explore all repositories for complete source code and documentation!**
 
 ---
 
 
-## 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
 
 <div align="center">
 
@@ -103,7 +103,7 @@ me.say_hi()
 
 ---
 
-## 📫 Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
 <div align="center">
   <a href="mailto:herwinstenil24@gmail.com">
