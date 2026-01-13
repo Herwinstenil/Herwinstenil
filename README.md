@@ -70,7 +70,7 @@ me.say_hi()
 - **Hospital Appointment Booking System** – Patients can book doctor appointments and check schedules, Appointment confirmation via Email & SMS using Twilio API.  
 - **Quiz Application** – Interactive quiz platform with a countdown timer, Score tracking and leaderboard for competition.  
 
-**👉 Explore all repositories for complete source code and documentation!**
+**👉 Explore all my repositories for complete source code and documentation!**
 
 ---
 
