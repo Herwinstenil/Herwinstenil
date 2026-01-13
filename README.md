@@ -32,7 +32,7 @@ me.say_hi()
 
 - 👨‍🎓 **Fresh Graduate** ready to make an impact in tech
 - 🔥 Passionate about creating **scalable, user-friendly applications**
-- 🧠 Strong foundation in **Frontend, Backend & Database technologies**
+- 🧠 Strong foundation in **Frontend, Backend and Database technologies**
 - 🌱 Currently deepening my knowledge in **Cloud Technologies**
 - 🤝 Open to **collaborations** and **learning opportunities**
 - 🎯 Actively **seeking entry-level** / **junior developer opportunities**
