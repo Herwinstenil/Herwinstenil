@@ -67,7 +67,7 @@ me.say_hi()
 ##  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
 - **Smart Canteen Management System** – QR-based authentication for employees, food ordering and automated billing system.  
 - **Tournament Fixtures Platform** – Manage fixtures, brackets and live scores in real-time, integrated Google Maps API for stadium locations.
-- **Hospital Appointment Booking System** – Patients can book doctor appointments and check schedules, Appointment confirmation via Email & SMS using Twilio API.  
+- **Hospital Appointment Booking System** – Patients can book doctor appointments and check schedules, appointment confirmation via Email & SMS using Twilio API.  
 - **Quiz Application** – Interactive quiz platform with a countdown timer, Score tracking and leaderboard for competition.  
 
 **👉 Explore all my repositories for complete source code and documentation!**
