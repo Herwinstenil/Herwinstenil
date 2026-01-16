@@ -54,7 +54,7 @@ me.say_hi()
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,postgres,prisma" />
 </p>
 
 ### ⚡ Tools
