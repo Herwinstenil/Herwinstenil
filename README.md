@@ -75,7 +75,7 @@ me.say_hi()
 - **Smart Canteen Management System** – QR-based authentication for employees, food ordering and automated billing system.  
 - **Tournament Fixtures Platform** – Manage fixtures, brackets and live scores in real-time, integrated Google Maps API for stadium locations.
 - **Hospital Appointment Booking System** – Patients can book doctor appointments and check schedules, appointment confirmation via Email & SMS using Twilio API.  
-- **Quiz Application** – Interactive quiz platform with a countdown timer, score tracking and leaderboard for competition.  
+- **Online Aptitude Test Website** – Interactive quiz platform with a countdown timer, score tracking and leaderboard for competition.  
 
 **👉 Explore all my repositories for complete source code and documentation!**
 
