@@ -18,7 +18,7 @@
 class Developer:
     def __init__(self):
         self.name = "Herwin Stenil E"
-        self.role = "Python Full-Stack Developer"
+        self.role = "Full-Stack Developer (Python & MERN)"
         self.location = "Kanyakumari, Tamil Nadu, India"
         self.status = "Actively seeking opportunities"
         self.passion = "Building real-world solutions"
