@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Developer (Python & MERN) | Building the Future, One Line at a Time
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Python+Full-Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Django+%7C+Flask+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full-Stack+Developer+(Python & MERN);Building+Scalable+Web+Applications;React+%7C+Django+%7C+Flask+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
