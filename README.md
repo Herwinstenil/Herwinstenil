@@ -21,7 +21,7 @@ class Developer:
         self.role = "Full-Stack Developer(Python & MERN)"
         self.location = "Kanyakumari, Tamil Nadu, India"
         self.status = "Actively seeking opportunities"
-        self.passion = ""
+        self.passion = "Turning ideas into real-world solutions"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
