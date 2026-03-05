@@ -30,7 +30,7 @@ me = Developer()
 me.say_hi()
 ```
 
-- 👨‍🎓 **Fresh Graduate** ready to make an impact in tech 
+- 👨‍🎓 **Fresh Graduate** ready to make an impact in tech
 - 🔥 Passionate about creating **scalable and user-friendly applications**
 - 🧠 Strong foundation in **Frontend, Backend and Database technologies**
 - 🌱 Currently deepening my knowledge in **Cloud Technologies**
