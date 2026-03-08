@@ -35,7 +35,7 @@ me.say_hi()
 - 🧠 Strong foundation in **Frontend, Backend and Database technologies**
 - 🌱 Currently deepening my knowledge in **Cloud Technologies, Containerization and Orchestration**
 - 🤝 Open to **collaborations** and **learning opportunities**
-- 🎯 Actively **seeking entry-level** / **junior developer opportunities**
+- 🎯 Actively **seeking entry-level** / **junior developer opportunities **
 
 <!-- Animated Badge Bar -->
 <div align="center">
