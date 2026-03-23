@@ -102,8 +102,6 @@ me.say_hi()
 
 </div>
 
-</div>
-
 ---
 
 ## 💭 Quote of the Day
