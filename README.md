@@ -61,7 +61,7 @@ me.say_hi()
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express"/>
 </p>
 
 ### 🗄️ Databases
