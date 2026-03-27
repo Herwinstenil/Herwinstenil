@@ -71,7 +71,7 @@ me.say_hi()
 
 ### ⚡ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
