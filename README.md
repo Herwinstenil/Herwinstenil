@@ -119,7 +119,7 @@ me.say_hi()
 <div align="center">
   
   <a href="mailto:herwinstenil24@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
   <a href="https://www.linkedin.com/in/herwin-stenil-e-b65317263">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
