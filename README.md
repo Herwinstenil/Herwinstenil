@@ -133,7 +133,7 @@ me.say_hi()
 
 ### ⭐ From [Herwinstenil](https://github.com/Herwinstenil) with 💙
 
-<img src="https://komarev.com/ghpvc/?username=Herwinstenil&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Herwinstenil&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
