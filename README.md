@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there! I'm Herwin Stenil E
+# 👋 Hey there! I'm Herwin Stenil 
 
 ### Full-Stack Developer (Python & MERN) | Building the Future, One Line at a Time
 
