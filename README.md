@@ -81,7 +81,7 @@ me.say_hi()
 - **Smart Canteen Management System** – QR based authentication for employees, food ordering and automated billing system.  
 - **Tournament Fixtures Platform** – Manage fixtures and live scores in real-time, integrated Google Maps API for stadium locations.
 - **Hospital Appointment Booking System** – Patients can book doctor appointments and check schedules, appointment confirmation via Email & SMS using Twilio API.  
-- **Online Aptitude Test Website** – A web based aptitude testing platform that allows users to take timed aptitude exams. It includes automatic score calculation and a leaderboard to rank users based on  performance.
+- **Online Aptitude Test Website** – A web based aptitude testing platform that allows users to take timed aptitude exams. It includes automatic score calculation and a leaderboard to rank users based on performance.
 
 **👉 Explore all my repositories for complete source code and documentation!**
 
