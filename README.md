@@ -45,7 +45,7 @@ me.say_hi()
 
 <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=for-the-badge&logo=statuspage&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/Lives-Tamil%20Nadu%2C%20India-orange?style=for-the-badge&logo=google-maps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lives-Tamil%20Nadu%2C%20India-orange?style=for-the-badge&logo=google-maps&logoColor=white"/>
 
 </div>
 
