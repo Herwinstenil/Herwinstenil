@@ -56,7 +56,7 @@ me.say_hi()
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind"/>
 </p>
 
 ### ⚙️ Backend
