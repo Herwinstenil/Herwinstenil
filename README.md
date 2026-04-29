@@ -125,7 +125,7 @@ me.say_hi()
   
 <a href="https://www.linkedin.com/in/herwin-stenil-e-b65317263">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
- </a>
+</a>
 
 <br><br>
 
