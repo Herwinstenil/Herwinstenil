@@ -143,7 +143,7 @@ me.say_hi()
 
 <div align="center">
   
-### ✨ Always open to exciting opportunities and collaborations! 
+### ✨ Always open to exciting opportunities and collaborations!
 
 **"The only way to do great work is to love what you do."** - Steve Jobs
 
