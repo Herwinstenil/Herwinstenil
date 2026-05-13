@@ -107,7 +107,7 @@ me.say_hi()
 
 ## 💭 Quote of the Day
 
-<div align="center">
+<div align="center"> 
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border_radius=16" alt="Quote of the Day"/>
 
