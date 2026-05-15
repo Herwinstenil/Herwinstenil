@@ -36,8 +36,8 @@ me = Developer()
 me.say_hi()
 ```
 
-- 👨‍🎓 **Fresh Graduate** ready to make an impact in tech 
-- 🔥 Passionate about creating **scalable and user-friendly applications**
+- 👨‍💻 **Full Stack Developer** with internship experience in Python and JavaScript ecosystems 
+- ⚡ Experienced in building **REST APIs, authentication systems and database-driven applications**
 - 🧠 Strong foundation in **Frontend, Backend and Database technologies**
 - 🌱 Currently deepening my knowledge in **Cloud Technologies, Containerization and Orchestration**
 - 🤝 Open to **collaborations** and **learning opportunities**
@@ -54,8 +54,6 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Lives-Tamil%20Nadu%2C%20India-orange?style=for-the-badge&logo=google-maps&logoColor=white"/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 ## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> Technology Arsenal
