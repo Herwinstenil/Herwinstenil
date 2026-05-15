@@ -22,12 +22,6 @@ class Developer:
         self.location = "Kanyakumari, Tamil Nadu, India"
         self.status = "Actively seeking opportunities"
         self.passion = "Turning ideas into real-world solutions"
-        self.current_learning = [
-            "Docker",
-            "Cloud Technologies",
-            "Deployment Workflows",
-            "Japanese"
-        ]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
@@ -142,7 +136,7 @@ Web-based XML comparison and proofing system built using Flask and MongoDB.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herwinstenil&theme=algolia&title_color=00d9ff&text_color=00d9ff&icon_color=00d9ff&bg_color=050F2C&border_color=00d9ff" width="90%" alt="GitHub Activity Graph"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Herwinstenil&bg_color=050F2C&color=00d9ff&line=00d9ff&point=03d3fc&area=true&hide_border=true&radius=16" width="90%" alt="Contribution Graph"/>
+
 
 </div>
 
