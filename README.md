@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | Building the Future, One Line at a Time
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Backend+Focused+Engineer;React+%7C+Django+%7C+PostgreSQL;Always+Building+and+Improving" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Full+Stack+Developer+%7C+Python,+Django,+React,+PostgreSQL;Building+Scalable+Web+Applications;Always+Building+and+Improving" alt="Typing SVG"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -82,10 +82,49 @@ me.say_hi()
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> Featured Projects
 
-- **Smart Canteen Management System** – QR based authentication for employees, food ordering and automated billing system.  
-- **Tournament Fixtures Platform** – Manage fixtures and live scores in real-time, integrated Google Maps API for stadium locations.
-- **Hospital Appointment Booking System** – Patients can book doctor appointments and check schedules, appointment confirmation via Email & SMS using Twilio API.  
-- **Online Aptitude Test Website** – A web based aptitude testing platform that allows users to take timed aptitude exams. It includes automatic score calculation and a leaderboard to rank users based on  performance.
+**🧱 Roshan Traders – Trading & Delivery Management Platform**
+
+Multi-role logistics and trading platform developed using React, Node.js, Express.js and PostgreSQL.
+
+### Features
+- Role-based dashboards for customers, suppliers, manufacturers and drivers
+- Order placement and delivery workflow management
+- Delivery status tracking and operational management
+- Backend API integration with PostgreSQL database
+
+##
+
+**📅 Appointment Booking Web Application**
+
+Full-stack appointment management platform with authentication and workflow-based booking management.
+
+### Features
+- Role-based authentication system
+- Appointment booking, approval and cancellation workflows
+- Provider and admin dashboards
+- API-driven backend architecture
+
+##
+
+**🍽️ Smart Canteen Management System**
+
+Web-based employee food ordering and billing system built using Django.
+
+### Features
+- QR-based employee authentication
+- Dynamic menu and billing management
+- Admin dashboard for order monitoring
+
+##
+
+**🧾 Automated XML Proofing Tool**
+
+Web-based XML comparison and proofing system built using Flask and MongoDB.
+
+### Features
+- Side-by-side XML comparison
+- Duplicate detection and validation
+- Automated proofing workflows
 
 **👉 Explore all my repositories for complete source code and documentation!**
 
