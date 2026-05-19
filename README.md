@@ -134,7 +134,7 @@ Web-based XML comparison and proofing system built using Flask and MongoDB.
 
 <img src="https://streak-stats.demolab.com/?user=Herwinstenil&theme=algolia&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%" alt="GitHub Streak"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herwinstenil&theme=algolia&title_color=00d9ff&text_color=00d9ff&icon_color=00d9ff&bg_color=050F2C&border_color=00d9ff" width="90%" alt="GitHub Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herwinstenil&theme=algolia&title_color=00BFFF&text_color=ffffff&icon_color=00D9FF&bg_color=050F2C&border_color=00D9FF" width="90%" alt="GitHub Activity Graph"/>
 
 </div>
 
