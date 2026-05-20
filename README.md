@@ -67,7 +67,7 @@ me.say_hi()
 <img src="https://skillicons.dev/icons?i=sqlite,mongodb,postgres,prisma"/>
 </p>
 
-
+### ☁️ DevOps & Cloud
 
 ### ⚡ Tools
 <p>
