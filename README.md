@@ -68,7 +68,9 @@ me.say_hi()
 </p>
 
 ### ☁️ DevOps & Cloud
-
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,linux"/>
+</p>
 
 ### ⚡ Tools
 <p>
