@@ -30,7 +30,7 @@ me = Developer()
 me.say_hi()
 ```
 
-- 👨‍💻 **Full Stack Developer** with internship experience in Python and JavaScript ecosystems 
+- 👨‍💻 **Full Stack Developer** with internship experience in Python and JavaScript ecosystems
 - ⚡ Experienced in building **REST APIs, authentication systems and database-driven applications**
 - 🧠 Strong foundation in **Frontend, Backend and Database technologies**
 - 🌱 Currently deepening my knowledge in **Cloud Technologies, Containerization and Orchestration**
