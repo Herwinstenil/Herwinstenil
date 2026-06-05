@@ -37,7 +37,7 @@ me.say_hi()
 - 🤝 Open to **collaborations** and **learning opportunities**
 - 🎯 Actively **seeking entry-level** / **junior developer opportunities**
 
-<!-- Animated Badge Bar -->
+<!-- Animated Badge Bar --> 
 
 <div align="center">
 
