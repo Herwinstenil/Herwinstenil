@@ -52,7 +52,7 @@ me.say_hi()
 ---
 ## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> Technology Arsenal
 
-### 🎨 Frontend
+### 🎨 Frontend 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind"/>
 </p>
