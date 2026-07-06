@@ -47,7 +47,7 @@ me.say_hi()
 
 <img src="https://img.shields.io/badge/Lives-Tamil%20Nadu%2C%20India-orange?style=for-the-badge&logo=google-maps&logoColor=white"/>
 
-</div> 
+</div>
 
 ---
 ## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> Technology Arsenal
