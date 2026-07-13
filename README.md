@@ -151,7 +151,7 @@ Web-based XML comparison and proofing system built using Flask and MongoDB.
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border_radius=16" alt="Quote of the Day"/>
 
-</div> 
+</div>
 
 ---
 
