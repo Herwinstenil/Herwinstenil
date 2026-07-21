@@ -22,6 +22,7 @@ class Developer:
         self.location = "Kanyakumari, Tamil Nadu, India"
         self.status = "Actively seeking opportunities"
         self.passion = "Turning ideas into real-world solutions"
+
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
