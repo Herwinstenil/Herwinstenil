@@ -132,7 +132,7 @@ Web-based XML comparison and proofing system built using Flask and MongoDB.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
 
-<div align="center">
+<div align="center"> 
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Herwinstenil&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" width="51%" alt="GitHub Stats"/>
 
