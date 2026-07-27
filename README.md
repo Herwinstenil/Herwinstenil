@@ -40,7 +40,7 @@ me.say_hi()
 
 <!-- Animated Badge Bar -->
 
-<div align="center">
+<div align="center"> 
 
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge&logo=data:image/svg+xml;base64,..."/>
 
