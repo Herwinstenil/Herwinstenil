@@ -148,7 +148,7 @@ Web-based XML comparison and proofing system built using Flask and MongoDB.
 
 ## 💭 Quote of the Day
 
-<div align="center"> 
+<div align="center">
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border_radius=16" alt="Quote of the Day"/>
 
