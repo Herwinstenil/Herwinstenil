@@ -142,7 +142,7 @@ Web-based XML comparison and proofing system built using Flask and MongoDB.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herwinstenil&theme=algolia&title_color=00BFFF&text_color=ffffff&icon_color=00D9FF&bg_color=050F2C&border_color=00D9FF" width="90%" alt="GitHub Activity Graph"/>
 
-</div>
+</div> 
 
 ---
 
