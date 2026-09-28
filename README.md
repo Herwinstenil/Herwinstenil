@@ -158,7 +158,7 @@ Web-based XML comparison and proofing system built using Flask and MongoDB.
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
-<div align="center">
+<div align="center"> 
   
 <a href="mailto:herwinstenil24@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
