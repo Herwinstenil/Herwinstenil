@@ -182,7 +182,7 @@ Web-based XML comparison and proofing system built using Flask and MongoDB.
 
 ---
 
-<div align="center"> 
+<div align="center">
   
 ### ✨ Always open to exciting opportunities and collaborations!
 
