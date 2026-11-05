@@ -136,7 +136,7 @@ Web-based XML comparison and proofing system built using Flask and MongoDB.
 
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Herwinstenil&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="38%" alt="Top Languages"/>
+
 
 <img src="https://streak-stats.demolab.com/?user=Herwinstenil&theme=algolia&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%" alt="GitHub Streak"/>
 
